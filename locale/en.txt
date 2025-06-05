@@ -1,0 +1,18 @@
+#: locale=en
+
+## Media
+
+### Audio
+audiores_50C22BE0_415F_9402_41C9_A9CF5DC20FB5.mp3Url = media/audio_5038AC16_415E_6C0F_41C6_2E45F64967FD_en.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_53C78224_4141_9403_419A_621466D27B36.label = AGC_20250605_150605266.PHOTOSPHERE copy
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 6
